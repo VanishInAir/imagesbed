@@ -9,8 +9,14 @@
 
 <img src="/imgs/webwxgetmsgimg.jpg" width="30%">
 
-#### 2.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
-#### 3.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
+#### 2.进入如下界面，点击```Add New```
+
+<img src="/imgs/webwxgetmsgimg2.jpg" width="30%">
+
+#### 3.进入如下界面，输入```Name Server Port Password```
+
+<img src="/imgs/webwxgetmsgimg (2).jpg" width="30%">
+
 #### 4.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
 #### 5.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
 
