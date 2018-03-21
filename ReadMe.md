@@ -19,8 +19,9 @@
 
 <img src="/imgs/webwxgetmsgimg (3).jpg" width="30%">
 
-#### 4.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
-#### 5.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
+#### 4.接着进入如下界面，设置完毕之后就可以登陆google.com了
+
+<img src="/imgs/webwxgetmsgimg (4).jpg" width="30%">
 
 # Android
 * [可直接下载的apk文件](https://yadi.sk/d/QW7vUcNu3MPh9K)
