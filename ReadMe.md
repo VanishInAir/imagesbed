@@ -4,6 +4,16 @@
 * [(sscap)Windows XP操作系统 版本](https://yadi.sk/d/8bF3LDG43MPcxv)
 # iPhone
 * [ssrconnectpro](https://itunes.apple.com/cn/app/ssrconnectpro/id1272045249?mt=8)
+
+#### 1.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
+
+<img src="/imgs/webwxgetmsgimg.jpg" width="30%">
+
+#### 2.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
+#### 3.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
+#### 4.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
+#### 5.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
+
 # Android
 * [可直接下载的apk文件](https://yadi.sk/d/QW7vUcNu3MPh9K)
 # Mac
