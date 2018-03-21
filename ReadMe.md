@@ -13,9 +13,11 @@
 
 <img src="/imgs/webwxgetmsgimg2.jpg" width="30%">
 
-#### 3.进入如下界面，输入```Name Server Port Password```
+#### 3.进入如下界面，输入```Name Server Port Password```，输入完成后点击Save Configuration
 
 <img src="/imgs/webwxgetmsgimg (2).jpg" width="30%">
+
+<img src="/imgs/webwxgetmsgimg (3).jpg" width="30%">
 
 #### 4.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
 #### 5.安装好ssrconnectpor，并打开界面如下，点击```Add Proxy```
