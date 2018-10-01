@@ -27,3 +27,8 @@
 * [可直接下载的apk文件](https://yadi.sk/d/QW7vUcNu3MPh9K)
 # Mac
 * [(推荐)ShadowsocksX-NG-1.3.2(Mac OS X 10.11+)](https://yadi.sk/d/3-Kd-MFI3MPhFB)
+
+#### 配置
+<video id="video" controls="" preload="none" autoplay="autoplay" loop="loop" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="/imgs/mac_method.mp4" type="video/mp4">
+</video>
