@@ -1,3 +1,3 @@
 # Window
 
-![](./onlineconfig.gif)
+![](https://raw.githubusercontent.com/VanishInAir/imagesbed/master/onlineconfig.gif)
